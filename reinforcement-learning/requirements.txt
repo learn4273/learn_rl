@@ -1,0 +1,7 @@
+gymnasium
+numpy
+matplotlib
+torch
+tqdm
+stable-baselines3
+wandb
