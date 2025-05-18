@@ -1,3 +1,3 @@
 # Reinforcement Learning Projects
 
-Your playground for RL experiments.
+Playground for RL experiments.
